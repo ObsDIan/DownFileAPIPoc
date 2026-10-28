@@ -1,0 +1,38 @@
+[
+  {
+    "ContainingType": "DownFileAPIPoc.Controllers.DownloadController",
+    "Method": "Download",
+    "RelativePath": "api/download/{token}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "token",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DownFileAPIPoc.Controllers.DownloadController",
+    "Method": "Diagnostic",
+    "RelativePath": "api/download/diagnostic",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DownFileAPIPoc.Controllers.DownloadController",
+    "Method": "RequestDownload",
+    "RelativePath": "api/download/request",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

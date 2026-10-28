@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\y1935-hsiao\\source\\repos\\DownFileAPIPoc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A19AA20-009F-4548-B669-654BDADAF1E1}|DownFileAPIPoc.csproj|c:\\users\\y1935-hsiao\\source\\repos\\downfileapipoc\\downloadtokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A19AA20-009F-4548-B669-654BDADAF1E1}|DownFileAPIPoc.csproj|solutionrelative:downloadtokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A19AA20-009F-4548-B669-654BDADAF1E1}|DownFileAPIPoc.csproj|c:\\users\\y1935-hsiao\\source\\repos\\downfileapipoc\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A19AA20-009F-4548-B669-654BDADAF1E1}|DownFileAPIPoc.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A19AA20-009F-4548-B669-654BDADAF1E1}|DownFileAPIPoc.csproj|c:\\users\\y1935-hsiao\\source\\repos\\downfileapipoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A19AA20-009F-4548-B669-654BDADAF1E1}|DownFileAPIPoc.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A19AA20-009F-4548-B669-654BDADAF1E1}|DownFileAPIPoc.csproj|c:\\users\\y1935-hsiao\\source\\repos\\downfileapipoc\\downloadtokeninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A19AA20-009F-4548-B669-654BDADAF1E1}|DownFileAPIPoc.csproj|solutionrelative:downloadtokeninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A19AA20-009F-4548-B669-654BDADAF1E1}|DownFileAPIPoc.csproj|c:\\users\\y1935-hsiao\\source\\repos\\downfileapipoc\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A19AA20-009F-4548-B669-654BDADAF1E1}|DownFileAPIPoc.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DownloadTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\y1935-hsiao\\source\\repos\\DownFileAPIPoc\\DownloadTokenService.cs",
+              "RelativeDocumentMoniker": "DownloadTokenService.cs",
+              "ToolTip": "C:\\Users\\y1935-hsiao\\source\\repos\\DownFileAPIPoc\\DownloadTokenService.cs",
+              "RelativeToolTip": "DownloadTokenService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAADwvykAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T09:33:46.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DownloadTokenInfo.cs",
+              "DocumentMoniker": "C:\\Users\\y1935-hsiao\\source\\repos\\DownFileAPIPoc\\DownloadTokenInfo.cs",
+              "RelativeDocumentMoniker": "DownloadTokenInfo.cs",
+              "ToolTip": "C:\\Users\\y1935-hsiao\\source\\repos\\DownFileAPIPoc\\DownloadTokenInfo.cs",
+              "RelativeToolTip": "DownloadTokenInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T09:33:12.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\y1935-hsiao\\source\\repos\\DownFileAPIPoc\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\y1935-hsiao\\source\\repos\\DownFileAPIPoc\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwBsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T09:26:42.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\y1935-hsiao\\source\\repos\\DownFileAPIPoc\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\y1935-hsiao\\source\\repos\\DownFileAPIPoc\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T09:26:31.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\y1935-hsiao\\source\\repos\\DownFileAPIPoc\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\y1935-hsiao\\source\\repos\\DownFileAPIPoc\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwA4AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T09:26:30.263Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

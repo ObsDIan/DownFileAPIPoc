@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "K1Zta7omrKA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\y1935-hsiao\\source\\repos\\DownFileAPIPoc\\DownFileAPIPoc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\y1935-hsiao\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.10\\microsoft.aspnetcore.openapi.10.0.10.nupkg.sha512",
+    "C:\\Users\\y1935-hsiao\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "套件 'Microsoft.OpenApi' 2.0.0 具有已知的 高 嚴重性弱點，https://github.com/advisories/GHSA-v5pm-xwqc-g5wc。",
+      "projectPath": "C:\\Users\\y1935-hsiao\\source\\repos\\DownFileAPIPoc\\DownFileAPIPoc.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\y1935-hsiao\\source\\repos\\DownFileAPIPoc\\DownFileAPIPoc.csproj",
+      "libraryId": "Microsoft.OpenApi",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
